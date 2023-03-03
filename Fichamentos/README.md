@@ -37,27 +37,27 @@ Berrio-Charry, E., Vergara-Vargas, J., and Uma ̃na-Acosta, H. (2020). A compone
 DOI: 10.1109/ISSREW53611.2021.00040  ->  [Ver artigo](https://doi.org/10.1109/ISSREW53611.2021.00040 )<br/>
 Parri, J., Sampietro, S., Scommegna, L., and Vicario, E. (2021). Evaluation of software aging in component-based web applications subject to soft errors over time. In _2021 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)_, pages 25–32.
 
-10. [**Interpretation-Enabled Software Reuse Detection Based on a Multi-level Birthmark Model**](https://github.com/octaviolage/TCC/blob/master/Fichamentos/Interpretation-Enabled%20Software%20Reuse%20Detection%20Based%20on%20a%20Multi-level%20Birthmark%20Model.md)<br/>
+10. [**Interpretation-Enabled Software Reuse Detection Based on a Multi-level Birthmark Model**](https://github.com/octaviolage/TCC/blob/master/Fichamentos/Fichamento-ListaBase10.md)<br/>
 DOI: 10.1109/ICSE43902.2021.00084  -> [Ver artigo](https://doi.org/10.1109/ICSE43902.2021.00084)<br/>
 Xu, X., Zheng, Q., Yan, Z., Fan, M., Jia, A., and Liu, T. (2021). Interpretation-enabled software reuse detection based on a multi-level birthmark model. In _2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE)_, pages 873–884.
 
-11. [**An Exploratory Study on How Software Reuse is Discussed in Stack Overflow**](https://github.com/octaviolage/TCC/blob/master/Fichamentos/An%20Exploratory%20Study%20on%20How%20Software%20Reuse%20is%20Discussed%20in%20Stack%20Overflow.md)<br/>
+11. [**An Exploratory Study on How Software Reuse is Discussed in Stack Overflow**](https://github.com/octaviolage/TCC/blob/master/Fichamentos/Fichamento-ListaBase11.md)<br/>
 DOI: 10.1007/978-3-030-64694-3_18  -> [Ver artigo](https://doi.org/10.1007/978-3-030-64694-3_18)<br/>
 AlOmar, E. A., Barinas, D., Liu, J., Mkaouer, M. W., Ouni, A., and Newman, C.(2020). An exploratory study on how software reuse is discussed in stack overflow. In Ben Sassi, S., Ducasse, S., and Mili, H., editors, _Reuse in Emerging Software Engineering Practices_, pages 292–303, Cham. Springer International Publishing.
 
-12. [**The Extent of Orphan Vulnerabilities from Code Reuse in Open Source Software**](https://github.com/octaviolage/TCC/blob/master/Fichamentos/The%20Extent%20of%20Orphan%20Vulnerabilities%20from%20Code%20Reuse%20in%20Open%20Source%20Software.md)<br/>
+12. [**The Extent of Orphan Vulnerabilities from Code Reuse in Open Source Software**](https://github.com/octaviolage/TCC/blob/master/Fichamentos/Fichamento-ListaBase12.md)<br/>
 DOI: 10.1145/3510003.3510216  -> [Ver artigo](https://doi.org/10.1145/3510003.3510216)<br/>
 Reid, D., Jahanshahi, M., and Mockus, A. (2022). The extent of orphan vulnerabilities from code reuse in open source software. In 2022 _IEEE/ACM 44th International Conference on Software Engineering (ICSE)_, pages 2104–2115.
 
-13. [**A Double-Edged Sword? Software Reuse and Potential Security Vulnerabilities**](https://github.com/octaviolage/TCC/blob/master/Fichamentos/A%20Double-Edged%20Sword%20Software%20Reuse%20and%20Potential%20Security%20Vulnerabilities.md)<br/>
+13. [**A Double-Edged Sword? Software Reuse and Potential Security Vulnerabilities**](https://github.com/octaviolage/TCC/blob/master/Fichamentos/Fichamento-ListaBase13.md)<br/>
 DOI: 10.1007/978-3-030-22888-0_13  -> [Ver artigo](https://doi.org/10.1007/978-3-030-22888-0_13)<br/>
 Gkortzis, A., Feitosa, D., and Spinellis, D. (2019). A double-edged sword? software reuse and potential security vulnerabilities. In Peng, X., Ampatzoglou, A., and Bhowmik, T., editors, _Reuse in the Big Data Era_, pages 187–203, Cham. Springer International Publishing.
 
-14. [**InspectJS: leveraging code similarity and user-feedback for effective taint specification inference for JavaScript**](https://github.com/octaviolage/TCC/blob/master/Fichamentos/InspectJS%20leveraging%20code%20similarity%20and%20user-feedback%20for%20effective%20taint%20specification%20inference%20for%20JavaScript.md)<br/>
+14. [**InspectJS: leveraging code similarity and user-feedback for effective taint specification inference for JavaScript**](https://github.com/octaviolage/TCC/blob/master/Fichamentos/Fichamento-ListaBase14.md)<br/>
 DOI: 10.1145/3510457.3513048  -> [Ver artigo](https://doi.org/10.1145/3510457.3513048)<br/>
 Dutta, S., Garbervetsky, D., Lahiri, S. K., and Sch ̈afer, M. (2022). Inspectjs: Leveraging code similarity and user-feedback for effective taint specification inference for javascript. In _2022 IEEE/ACM 44th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)_, pages 165–174.
 
-15. [**An empirical evaluation of GitHub copilot's code suggestions**](https://github.com/octaviolage/TCC/blob/master/Fichamentos/An%20empirical%20evaluation%20of%20GitHub%20copilot's%20code%20suggestions.md)<br/>
+15. [**An empirical evaluation of GitHub copilot's code suggestions**](https://github.com/octaviolage/TCC/blob/master/Fichamentos/Fichamento-ListaBase15.md)<br/>
 DOI: 10.1145/3510457.3513048  -> [Ver artigo](https://doi.org/10.1145/3510457.3513048)<br/>
 Nguyen, N. and Nadi, S. (2022). An empirical evaluation of github copilot’s code suggestions. In _2022 IEEE/ACM 19th International Conference on Mining Software Repositories (MSR)_, pages 1–5.
 
