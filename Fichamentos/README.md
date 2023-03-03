@@ -60,6 +60,3 @@ Dutta, S., Garbervetsky, D., Lahiri, S. K., and Sch ̈afer, M. (2022). Inspectjs
 15. [**An empirical evaluation of GitHub copilot's code suggestions**](https://github.com/octaviolage/TCC/blob/master/Fichamentos/Fichamento-ListaBase15.md)<br/>
 DOI: 10.1145/3510457.3513048  -> [Ver artigo](https://doi.org/10.1145/3510457.3513048)<br/>
 Nguyen, N. and Nadi, S. (2022). An empirical evaluation of github copilot’s code suggestions. In _2022 IEEE/ACM 19th International Conference on Mining Software Repositories (MSR)_, pages 1–5.
-
-
-...
